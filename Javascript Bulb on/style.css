@@ -1,0 +1,41 @@
+
+.bulb{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 8vmin;
+    margin-left: 38vmin;
+    
+}
+
+.bulbd{
+    box-shadow: 5vmin 5vmin 100000vmin #f7e605;
+}
+
+.btn{
+    margin-left: 42vmin;
+    margin-top: 35vmin;
+    height: 80px;
+    border-radius: 23px;
+    cursor: pointer;
+    
+}
+
+.btnr{
+    box-shadow: 0px 2px 10px #8c8c88;
+    
+}
+
+#btndiv{
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-left: 15px;
+    margin-bottom: 30px;
+
+}
+
+
